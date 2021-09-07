@@ -1,2 +1,2 @@
 # React-EZ
-Anything about react from basic to advance
+Anything about react 
